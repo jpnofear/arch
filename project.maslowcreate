@@ -1,0 +1,25 @@
+{
+    "molecules": [
+        {
+            "atomType": "Molecule",
+            "name": "arch",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 736278,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1330,
+                    "y": 179.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        }
+    ],
+    "circleSegmentSize": 2
+}
